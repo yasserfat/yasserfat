@@ -4,7 +4,7 @@ Here's your updated README with the requested changes:
 
 <p align="center">
   <a href="https://github.com/yasserfat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=1D95E6&center=true&width=435&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=1D95E6&center=true&width=495&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@ Here's your updated README with the requested changes:
 - 🌱 I’m currently learning *Advanced React and TypeScript*
 - 👯 I’m looking to collaborate on *Web, Mobile Apps, and Embedded Systems Projects*
 - 💬 Ask me about *React, Next.js, Firebase, Tailwind CSS, Redux*
-- 🚀 I have extensive experience with *low-code/no-code platforms* like *Bubble, Webflow, and WeWeb*
+- 🚀 I have one year experience with *low-code/no-code platforms* like *Bubble, Webflow, and WeWeb*
 - 📫 How to reach me: *[yasserfat9@gmail.com](mailto:yasserfat9@gmail.com)*
 
 <h3 align="left">Connect with me:</h3>
