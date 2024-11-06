@@ -1,16 +1,16 @@
-Here's a customized README for your GitHub profile:
+Here's your updated README with the requested changes:
 
 ---
 
 <p align="center">
   <a href="https://github.com/yasserfat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=#1D95E6&center=true&width=495&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=1D95E6&center=true&width=435&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yasserfat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=#1D95E6&center=true&width=435&lines=Front-End+Developer;ReactJs+%7C+NextJs;Building+Modern+Web+Apps" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=1D95E6&center=true&width=435&lines=Front-End+Developer;ReactJs+%7C+NextJs;Building+Modern+Web+Apps" />
   </a>
 </p>
 
@@ -23,12 +23,13 @@ Here's a customized README for your GitHub profile:
   <a href="https://dev.to/yourusername"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasserfat&label=Profile%20views&color=ff0000&style=flat" alt="yasserfat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasserfat&label=Profile%20views&color=1D95E6&style=flat" alt="yasserfat" /> </p>
 
 - 🌱 I’m currently learning *Advanced React and TypeScript*
 - 👯 I’m looking to collaborate on *Web, Mobile Apps, and Embedded Systems Projects*
 - 💬 Ask me about *React, Next.js, Firebase, Tailwind CSS, Redux*
-- 📫 How to reach me: *[yasserfetouhi@gmail.com](mailto:yasserfetouhi@gmail.com)*
+- 🚀 I have extensive experience with *low-code/no-code platforms* like *Bubble, Webflow, and WeWeb*
+- 📫 How to reach me: *[yasserfat9@gmail.com](mailto:yasserfat9@gmail.com)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
