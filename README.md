@@ -4,13 +4,13 @@ Here's a customized README for your GitHub profile:
 
 <p align="center">
   <a href="https://github.com/yasserfat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=rgb(29 149 230)&center=true&width=475&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=#1D95E6&center=true&width=495&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yasserfat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=F70000&center=true&width=435&lines=Front-End+Developer;ReactJs+%7C+NextJs;Building+Modern+Web+Apps" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=#1D95E6&center=true&width=435&lines=Front-End+Developer;ReactJs+%7C+NextJs;Building+Modern+Web+Apps" />
   </a>
 </p>
 
