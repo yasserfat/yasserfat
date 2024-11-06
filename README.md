@@ -4,7 +4,7 @@ Here's a customized README for your GitHub profile:
 
 <p align="center">
   <a href="https://github.com/yasserfat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=F70000&center=true&width=435&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=rgb(29 149 230)&center=true&width=475&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
   </a>
 </p>
 
