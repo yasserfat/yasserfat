@@ -1,10 +1,10 @@
-Here's your updated README with the requested changes:
+Here's the updated README with only Instagram and LinkedIn:
 
 ---
 
 <p align="center">
   <a href="https://github.com/yasserfat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=1D95E6&center=true&width=495&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=1D95E6&center=true&width=475&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" />
   </a>
 </p>
 
@@ -16,11 +16,9 @@ Here's your updated README with the requested changes:
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/your_twitter"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/yasser-fetouhi-b555b5235/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/yourusername"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://instagram.com/your-instagram"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasserfat&label=Profile%20views&color=1D95E6&style=flat" alt="yasserfat" /> </p>
@@ -28,14 +26,13 @@ Here's your updated README with the requested changes:
 - 🌱 I’m currently learning *Advanced React and TypeScript*
 - 👯 I’m looking to collaborate on *Web, Mobile Apps, and Embedded Systems Projects*
 - 💬 Ask me about *React, Next.js, Firebase, Tailwind CSS, Redux*
-- 🚀 I have one year experience with *low-code/no-code platforms* like *Bubble, Webflow, and WeWeb*
+- 🚀 I have extensive experience with *low-code/no-code platforms* like *Bubble, Webflow, and WeWeb*
 - 📫 How to reach me: *[yasserfat9@gmail.com](mailto:yasserfat9@gmail.com)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yasser-fetouhi-b555b5235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-fetouhi" height="30" width="40" /></a>
 <a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
-<a href="https://t.me/yourtelegram" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="yourtelegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,3 +52,7 @@ Here's your updated README with the requested changes:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasserfat&show_icons=true&theme=dark&locale=en" alt="yasserfat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasserfat&theme=dark" alt="yasserfat" /></p>
+
+---
+
+Let me know if you need further changes!
