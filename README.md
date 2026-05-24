@@ -1,9 +1,97 @@
-<p align="center"> <a href="https://github.com/yasserfat"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=100&pause=800&color=1D95E6&center=true&width=495&lines=Fetouhi+Yasser+Abdessamie" alt="Yasser" /> </a> </p> <p align="center"> <a href="https://github.com/yasserfat"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1000&pause=1000&color=1D95E6&center=true&width=435&lines=Front-End+Developer;ReactJs+%7C+NextJs;Building+Modern+Web+Apps" /> </a> </p> <!-- Social icons section --> <p align="center"> <a href="https://www.linkedin.com/in/yasser-fetouhi-b555b5235/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a> &#8287;&#8287;&#8287;&#8287;&#8287; <a href="https://www.instagram.com/selon_js/"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasserfat&label=Profile%20views&color=1D95E6&style=flat" alt="yasserfat" /> </p>
+<div class="root">
+  <h2 class="sr-only">GitHub profile README for Fetouhi Yasser Abdessamie</h2>
 
-💼 I'm currently working as a Front-End Developer at **DevFlows**
-🌱 I'm currently learning, Computer Vision, and Embedded Systems
-👯 I'm looking to collaborate on Embedded Systems and Computer Vision Projects
-🤖 Interested in Computer Vision and Embedded Systems development
-📫 How to reach me: yasserfat9@gmail.com
+  <div class="name">Fetouhi Yasser Abdessamie</div>
+  <div class="title">Computer enginnering Student · Front-End Developer · Low-Code Builder · I’m into computer vision and IOT</div>
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/yasser-fetouhi-b555b5235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-fetouhi" height="30" width="40" /></a> <a href="https://www.instagram.com/selon_js/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="selon_js" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+  <hr>
+
+  <div class="section-label">About</div>
+  <ul class="bullet-list">
+    <li>Computer engineering student building across web, embedded systems, and AI</li>
+    <li>Front-end developer at <b>DevFlows</b> — shipping production apps with React and Next.js</li>
+    <li>Experienced with low-code platforms: <b>Webflow</b>, <b>WeWeb</b>, and <b>Xano</b> for rapid full-stack builds</li>
+    <li>Build automations with <b>Make</b>, <b>Airtable</b>, <b>Google Drive</b>, and connected APIs to streamline business workflows</li>
+    <li>Exploring <b>Computer Vision</b> and <b>Embedded Systems</b> — looking to collaborate on projects in both spaces</li>
+    <li>Reach me at <a href="mailto:yasserfat9@gmail.com" class="social-link">yasserfat9@gmail.com</a></li>
+  </ul>
+
+  <hr>
+
+  <div class="section-label">Featured Projects</div>
+  <table class="project-table">
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="proj-name">car personality assignment under challenging condition (seatbelt and phone usage)</td>
+        <td>Computer Vision-Based Driver Behavior Analysis Under Challenging Conditions: Seatbelt and Mobile Phone Usage Detection</td>
+      </tr>
+      <tr>
+        <td class="proj-name">Scanned Exams → LaTeX + QR</td>
+        <td>This project is an intelligent educational tool that scans handwritten exams and automatically converts detected answers and mathematical expressions into clean LaTeX-formatted solutions using AI and OCR technologies. The system is designed to simplify the digitalization and organization of exam papers while improving readability and accessibility of handwritten content.</td>
+      </tr>
+      <tr>
+        <td class="proj-name">Agon Nutrition Platform</td>
+        <td>AI-powered personalized sports nutrition platform — tailored meal and supplement plans based on athlete profiles. This system uses artificial intelligence to analyze individual athlete data such as age, weight, height, fitness goals, training intensity, and dietary preferences in order to generate optimized nutrition plans. It provides customized daily meal suggestions and supplement recommendations designed to improve performance, recovery, and overall health.</td>
+      </tr>
+      <tr>
+        <td class="proj-name">Maze-Solving Robot</td>
+        <td>Autonomous robot that navigates and solves mazes using embedded pathfinding algorithms. This system is designed to independently explore unknown environments and determine the most efficient route to a target without human intervention. It uses onboard sensors to detect walls, obstacles, and pathways, allowing the robot to build a real-time map of the maze as it moves.</td>
+      </tr>
+      <tr>
+        <td class="proj-name">IoT Debt Payment System</td>
+        <td>IoT system integrating hardware triggers with a debt tracking and payment workflow</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <hr>
+
+  <div class="section-label">Languages &amp; Tools</div>
+
+  <div class="group-label">Web &amp; Frontend</div>
+  <div class="tools-grid">
+    <span class="tool-badge">React</span>
+    <span class="tool-badge">Next.js</span>
+    <span class="tool-badge">JavaScript</span>
+    <span class="tool-badge">TypeScript</span>
+    <span class="tool-badge">HTML / CSS</span>
+    <span class="tool-badge">Tailwind CSS</span>
+    <span class="tool-badge">Node.js</span>
+  </div>
+
+  <div class="group-label">Low-Code &amp; Automation</div>
+  <div class="tools-grid">
+    <span class="tool-badge highlight">Webflow</span>
+    <span class="tool-badge highlight">WeWeb</span>
+    <span class="tool-badge highlight">Xano</span>
+    <span class="tool-badge highlight">Make</span>
+    <span class="tool-badge highlight">Airtable</span>
+    <span class="tool-badge highlight">Google Drive</span>
+  </div>
+
+  <div class="group-label">AI / Embedded</div>
+  <div class="tools-grid">
+    <span class="tool-badge">Python</span>
+    <span class="tool-badge">numpy, pandas and matplotlib</span>
+    <span class="tool-badge">OpenCV</span>
+    <span class="tool-badge">YOLO</span>
+    <span class="tool-badge">Arduino</span>
+    <span class="tool-badge">ESP32</span>
+    <span class="tool-badge">Java</span>
+    <span class="tool-badge">Git and Gihub</span>
+  </div>
+
+  <hr>
+
+  <div class="section-label">Connect</div>
+  <div class="social-row">
+    <a href="https://www.linkedin.com/in/yasser-fetouhi-b555b5235/" class="social-link" target="_blank">LinkedIn ↗</a>
+    <span style="color: var(--color-border-tertiary)">|</span>
+  </div>
+</div
