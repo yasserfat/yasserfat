@@ -88,7 +88,8 @@
   </div>
 
   <hr>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasserfat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasserfat&layout=compact&theme=tokyonight)
   <div class="section-label">Connect</div>
   <div class="social-row">
     <a href="https://www.linkedin.com/in/yasser-fetouhi-b555b5235/" class="social-link" target="_blank">LinkedIn ↗</a>
