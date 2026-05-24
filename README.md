@@ -1,5 +1,5 @@
 <div class="root">
-  <h2 class="sr-only">GitHub profile README for Fetouhi Yasser Abdessamie</h2>
+  <h2 class="sr-only">Heey, i'm Yasser </h2>
 
   <div class="name">Fetouhi Yasser Abdessamie</div>
   <div class="title">Computer Engineering Student · Front-End Developer · Low-Code Builder · I'm into Computer Vision and IoT</div>
