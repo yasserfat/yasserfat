@@ -9,7 +9,7 @@
   <div class="section-label">About</div>
   <ul class="bullet-list">
     <li>Computer Engineering student building across web, embedded systems, and AI</li>
-    <li>Front-end developer at <b>DevFlows</b> — shipping production apps with React and Next.js</li>
+    <li>Front-end developer at <a href="devflows.eu" target="_blank"><b>DevFlows</b> </a>  shipping production apps with React and Next.js</li>
     <li>Experienced with low-code platforms: <b>Webflow</b>, <b>WeWeb</b>, and <b>Xano</b> for rapid full-stack builds</li>
     <li>Build automations with <b>Make</b>, <b>Airtable</b>, <b>Google Drive</b>, and connected APIs to streamline business workflows</li>
     <li>Exploring <b>Computer Vision</b> and <b>Embedded Systems</b> — looking to collaborate on projects in both spaces</li>
