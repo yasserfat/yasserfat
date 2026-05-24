@@ -2,13 +2,13 @@
   <h2 class="sr-only">GitHub profile README for Fetouhi Yasser Abdessamie</h2>
 
   <div class="name">Fetouhi Yasser Abdessamie</div>
-  <div class="title">Computer enginnering Student · Front-End Developer · Low-Code Builder · I’m into computer vision and IOT</div>
+  <div class="title">Computer Engineering Student · Front-End Developer · Low-Code Builder · I'm into Computer Vision and IoT</div>
 
   <hr>
 
   <div class="section-label">About</div>
   <ul class="bullet-list">
-    <li>Computer engineering student building across web, embedded systems, and AI</li>
+    <li>Computer Engineering student building across web, embedded systems, and AI</li>
     <li>Front-end developer at <b>DevFlows</b> — shipping production apps with React and Next.js</li>
     <li>Experienced with low-code platforms: <b>Webflow</b>, <b>WeWeb</b>, and <b>Xano</b> for rapid full-stack builds</li>
     <li>Build automations with <b>Make</b>, <b>Airtable</b>, <b>Google Drive</b>, and connected APIs to streamline business workflows</li>
@@ -28,23 +28,23 @@
     </thead>
     <tbody>
       <tr>
-        <td class="proj-name">car personality assignment under challenging condition (seatbelt and phone usage)</td>
-        <td>Computer Vision-Based Driver Behavior Analysis Under Challenging Conditions: Seatbelt and Mobile Phone Usage Detection</td>
+        <td class="proj-name"><span class="proj-title-plain">Driver Behavior Detection (YOLO)</span></td>
+        <td>Computer Vision-based driver behavior analysis under challenging conditions: seatbelt and mobile phone usage detection</td>
       </tr>
       <tr>
-        <td class="proj-name">Scanned Exams → LaTeX + QR</td>
-        <td>This project is an intelligent educational tool that scans handwritten exams and automatically converts detected answers and mathematical expressions into clean LaTeX-formatted solutions using AI and OCR technologies. The system is designed to simplify the digitalization and organization of exam papers while improving readability and accessibility of handwritten content.</td>
+        <td class="proj-name"><a href="https://github.com/yasserfat/scaned-exams-to-letex-and-qr-code-for-solution" class="proj-link" target="_blank">Scanned Exams → LaTeX + QR <i class="ti ti-external-link" style="font-size:11px" aria-hidden="true"></i></a></td>
+        <td>Scans handwritten exams, converts detected answers and mathematical expressions into LaTeX-formatted solutions via AI and OCR, then generates QR codes linking to the output</td>
       </tr>
       <tr>
-        <td class="proj-name">Agon Nutrition Platform</td>
-        <td>AI-powered personalized sports nutrition platform — tailored meal and supplement plans based on athlete profiles. This system uses artificial intelligence to analyze individual athlete data such as age, weight, height, fitness goals, training intensity, and dietary preferences in order to generate optimized nutrition plans. It provides customized daily meal suggestions and supplement recommendations designed to improve performance, recovery, and overall health.</td>
+        <td class="proj-name"><a href="https://github.com/yasserfat/Agon-AI-Powered-Personalized-Sports-Nutrition-Platform" class="proj-link" target="_blank">Agon Nutrition Platform <i class="ti ti-external-link" style="font-size:11px" aria-hidden="true"></i></a></td>
+        <td>AI-powered personalized sports nutrition platform — analyzes athlete data (age, weight, goals, training intensity) to generate optimized meal and supplement plans</td>
       </tr>
       <tr>
-        <td class="proj-name">Maze-Solving Robot</td>
-        <td>Autonomous robot that navigates and solves mazes using embedded pathfinding algorithms. This system is designed to independently explore unknown environments and determine the most efficient route to a target without human intervention. It uses onboard sensors to detect walls, obstacles, and pathways, allowing the robot to build a real-time map of the maze as it moves.</td>
+        <td class="proj-name"><a href="https://github.com/yasserfat/Maze-solving-robot" class="proj-link" target="_blank">Maze-Solving Robot <i class="ti ti-external-link" style="font-size:11px" aria-hidden="true"></i></a></td>
+        <td>Autonomous robot that navigates unknown environments using onboard sensors, builds a real-time map, and finds the most efficient route to a target</td>
       </tr>
       <tr>
-        <td class="proj-name">IoT Debt Payment System</td>
+        <td class="proj-name"><a href="https://github.com/yasserfat/IOT-system-for-debt-payment" class="proj-link" target="_blank">IoT Debt Payment System <i class="ti ti-external-link" style="font-size:11px" aria-hidden="true"></i></a></td>
         <td>IoT system integrating hardware triggers with a debt tracking and payment workflow</td>
       </tr>
     </tbody>
@@ -78,13 +78,13 @@
   <div class="group-label">AI / Embedded</div>
   <div class="tools-grid">
     <span class="tool-badge">Python</span>
-    <span class="tool-badge">numpy, pandas and matplotlib</span>
+    <span class="tool-badge">numpy / pandas / matplotlib</span>
     <span class="tool-badge">OpenCV</span>
     <span class="tool-badge">YOLO</span>
     <span class="tool-badge">Arduino</span>
     <span class="tool-badge">ESP32</span>
     <span class="tool-badge">Java</span>
-    <span class="tool-badge">Git and Gihub</span>
+    <span class="tool-badge">Git &amp; GitHub</span>
   </div>
 
   <hr>
@@ -92,6 +92,5 @@
   <div class="section-label">Connect</div>
   <div class="social-row">
     <a href="https://www.linkedin.com/in/yasser-fetouhi-b555b5235/" class="social-link" target="_blank">LinkedIn ↗</a>
-    <span style="color: var(--color-border-tertiary)">|</span>
   </div>
-</div
+</div>
