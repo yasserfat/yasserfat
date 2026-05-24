@@ -88,10 +88,7 @@
   </div>
 
   <hr>
-<div class="stats-row">
-    <img src="https://github-readme-stats.vercel.app/api?username=yasserfat&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" alt="Yasser's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserfat&amp;layout=compact&amp;theme=tokyonight" alt="Most Used Languages">
-  </div>
+
   <div class="section-label">Connect</div>
   <div class="social-row">
     <a href="https://www.linkedin.com/in/yasser-fetouhi-b555b5235/" class="social-link" target="_blank">LinkedIn ↗</a>
