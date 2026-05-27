@@ -83,6 +83,7 @@
     <span class="tool-badge">YOLO</span>
     <span class="tool-badge">Arduino</span>
     <span class="tool-badge">ESP32</span>
+    <span class="tool-badge">C/C++</span>
     <span class="tool-badge">Java</span>
     <span class="tool-badge">Git &amp; GitHub</span>
   </div>
